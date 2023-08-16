@@ -127,3 +127,4 @@ rpc LotsOfGreetings(stream HelloRequest) returns (HelloResponse);
 
 ## 十一、引用
 - https://www.liwenzhou.com/posts/Go/gRPC/
+- https://protobuf.dev/programming-guides/proto3 （proto文件语法）
